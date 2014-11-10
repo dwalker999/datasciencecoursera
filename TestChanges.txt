@@ -1,3 +1,5 @@
 This is a file to test changes with Git.
 
-1. This is the initial line.
+1. This is the initial line changed.
+2. Here is an added line.
+.
